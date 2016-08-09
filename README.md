@@ -4,6 +4,7 @@ My private collection of links.
 
 ## Memory leaks
 
+* http://jenshadlich.blogspot.de/2016/08/find-native-memory-leaks-in-java.html
 * http://www.evanjones.ca/java-native-leak-bug.html
 * https://gdstechnology.blog.gov.uk/2015/12/11/using-jemalloc-to-get-to-the-bottom-of-a-memory-leak/
 
