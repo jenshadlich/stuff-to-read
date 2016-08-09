@@ -27,6 +27,11 @@ My private collection of links.
 * https://docs.cloudfoundry.org/concepts/diego/diego-architecture.html
 * https://docs.pivotal.io/pivotalcf/1-7/concepts/docker.html#multi-tenant
 
+## AWS
+### S3
+
+* http://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html
+
 ## Distributed Systems
 
 * https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
