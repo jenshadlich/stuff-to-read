@@ -1,5 +1,7 @@
 # Stuff to read
 
+My private collection of links.
+
 ## Memory leaks
 
 * http://www.evanjones.ca/java-native-leak-bug.html
@@ -15,6 +17,10 @@
 
 * https://docs.cloudfoundry.org/concepts/diego/diego-architecture.html
 * https://docs.pivotal.io/pivotalcf/1-7/concepts/docker.html#multi-tenant
+
+## DevOps
+
+* https://bosh.io/
 
 ## Web Developoment
 
