@@ -10,14 +10,24 @@ My private collection of links.
 
 ## Microservices, DDD
 
+* http://12factor.net/
 * http://martinfowler.com/articles/microservices.html
 * http://martinfowler.com/bliki/BoundedContext.html
 * https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
 
 ## Containers
 
+* https://github.com/anapsix/docker-alpine-java
+
+### Cloud Foundry
+
+* https://docs.pivotal.io/pcf-dev/
 * https://docs.cloudfoundry.org/concepts/diego/diego-architecture.html
 * https://docs.pivotal.io/pivotalcf/1-7/concepts/docker.html#multi-tenant
+
+## Distributed Systems
+
+* https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
 
 ## DevOps
 
