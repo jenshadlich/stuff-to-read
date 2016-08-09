@@ -14,6 +14,8 @@ My private collection of links.
 * http://martinfowler.com/articles/microservices.html
 * http://martinfowler.com/bliki/BoundedContext.html
 * https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
+* https://dzone.com/articles/scalable-cloud-computing-with-microservices
+* https://www.infoq.com/presentations/ddd-microservices-2016
 
 ## Containers
 
