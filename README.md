@@ -17,6 +17,10 @@ My private collection of links.
 * https://dzone.com/articles/scalable-cloud-computing-with-microservices
 * https://www.infoq.com/presentations/ddd-microservices-2016
 
+## Java, Spring
+
+* https://spring.io/blog/2015/11/30/migrating-oauth2-apps-from-spring-boot-1-2-to-1-3
+
 ## Containers
 
 * https://github.com/anapsix/docker-alpine-java
