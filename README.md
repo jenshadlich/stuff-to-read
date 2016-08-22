@@ -21,6 +21,8 @@ My private collection of links.
 
 * https://spring.io/blog/2015/11/30/migrating-oauth2-apps-from-spring-boot-1-2-to-1-3
 * https://spring.io/blog/2016/02/15/distributed-tracing-with-spring-cloud-sleuth-and-spring-cloud-zipkin
+* http://cloud.spring.io/spring-cloud-netflix/spring-cloud-netflix.html
+* https://github.com/Netflix/eureka/wiki/Eureka-REST-operations
 
 ## Containers
 
