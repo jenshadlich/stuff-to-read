@@ -23,6 +23,7 @@ My private collection of links.
 * https://spring.io/blog/2016/02/15/distributed-tracing-with-spring-cloud-sleuth-and-spring-cloud-zipkin
 * http://cloud.spring.io/spring-cloud-netflix/spring-cloud-netflix.html
 * https://github.com/Netflix/eureka/wiki/Eureka-REST-operations
+* https://github.com/Netflix/eureka/wiki/Understanding-Eureka-Peer-to-Peer-Communication
 * https://github.com/openzipkin/docker-zipkin
 * http://ryanjbaxter.com/cloud/spring%20cloud/spring/2016/07/07/spring-cloud-sleuth.html
 * https://spring.io/blog/2016/02/15/distributed-tracing-with-spring-cloud-sleuth-and-spring-cloud-zipkin
