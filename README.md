@@ -27,6 +27,7 @@ My private collection of links.
 * https://github.com/openzipkin/docker-zipkin
 * http://ryanjbaxter.com/cloud/spring%20cloud/spring/2016/07/07/spring-cloud-sleuth.html
 * https://spring.io/blog/2016/02/15/distributed-tracing-with-spring-cloud-sleuth-and-spring-cloud-zipkin
+* https://jmnarloch.wordpress.com/2015/10/14/spring-cloud-feign-oauth2-authentication/
 
 ## Containers
 
