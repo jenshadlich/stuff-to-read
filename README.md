@@ -59,3 +59,8 @@ My private collection of links.
 ## Writing
 
 * RFC Style Guide: https://tools.ietf.org/html/rfc7322
+
+## Misc
+
+* Adyen Test Card Numbers: https://gist.github.com/j3j5/8b3e48ccad746b90a54a
+
