@@ -31,6 +31,7 @@ My private collection of links.
 * http://sgdev-blog.blogspot.de/2016/04/spring-oauth2-with-jwt-sample.html
 * https://spring.io/blog/2015/12/10/spring-boot-memory-performance
 * http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html
+* http://matthewkwilliams.com/index.php/2016/03/17/docker-cgroups-memory-constraints-and-java-cautionary-tale/
 
 ## Containers
 
