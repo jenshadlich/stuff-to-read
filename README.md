@@ -28,6 +28,7 @@ My private collection of links.
 * http://ryanjbaxter.com/cloud/spring%20cloud/spring/2016/07/07/spring-cloud-sleuth.html
 * https://spring.io/blog/2016/02/15/distributed-tracing-with-spring-cloud-sleuth-and-spring-cloud-zipkin
 * https://jmnarloch.wordpress.com/2015/10/14/spring-cloud-feign-oauth2-authentication/
+* http://sgdev-blog.blogspot.de/2016/04/spring-oauth2-with-jwt-sample.html
 * https://spring.io/blog/2015/12/10/spring-boot-memory-performance
 * http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html
 
