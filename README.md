@@ -36,6 +36,7 @@ My private collection of links.
 ## Containers
 
 * https://github.com/anapsix/docker-alpine-java
+* http://www.boycottdocker.org/
 
 ### Cloud Foundry
 
@@ -51,6 +52,7 @@ My private collection of links.
 ## Distributed Systems
 
 * https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+* http://highscalability.com/blog/2012/6/18/google-on-latency-tolerant-systems-making-a-predictable-whol.html
 
 ## DevOps
 
@@ -59,6 +61,11 @@ My private collection of links.
 ## Web Developoment
 
 * https://www.fastly.com/blog/using-esi-part-1-simple-edge-side-include
+* https://developer.akamai.com/api/purge/ccu/overview.html
+* http://book.varnish-software.com/4.0/chapters/Cache_Invalidation.html
+
+## Linux
+* https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
 
 ## Writing
 
@@ -67,4 +74,3 @@ My private collection of links.
 ## Misc
 
 * Adyen Test Card Numbers: https://gist.github.com/j3j5/8b3e48ccad746b90a54a
-
