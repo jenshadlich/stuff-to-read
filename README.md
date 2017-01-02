@@ -16,6 +16,7 @@ My private collection of links.
 * https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
 * https://dzone.com/articles/scalable-cloud-computing-with-microservices
 * https://www.infoq.com/presentations/ddd-microservices-2016
+* http://www.grahamlea.com/2015/07/microservices-security-questions/
 
 ## Java, Spring
 
@@ -45,6 +46,8 @@ My private collection of links.
 * https://docs.pivotal.io/pivotalcf/1-7/concepts/docker.html#multi-tenant
 
 ## AWS
+* https://www.expeditedssl.com/aws-in-plain-english
+
 ### S3
 
 * http://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html
@@ -66,6 +69,11 @@ My private collection of links.
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
+* https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8
+
+## Networking
+* http://bird.network.cz/
+* https://en.wikipedia.org/wiki/Protocol_Independent_Multicast
 
 ## Writing
 
@@ -74,3 +82,6 @@ My private collection of links.
 ## Misc
 
 * Adyen Test Card Numbers: https://gist.github.com/j3j5/8b3e48ccad746b90a54a
+* http://sqlmap.org/
+* http://datanet.co/
+* https://moz.com/blog/the-technical-seo-renaissance
