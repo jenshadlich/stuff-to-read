@@ -38,6 +38,7 @@ My private collection of links.
 
 * https://github.com/anapsix/docker-alpine-java
 * http://www.boycottdocker.org/
+* http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/
 
 ### Cloud Foundry
 
