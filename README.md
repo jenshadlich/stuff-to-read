@@ -80,6 +80,7 @@ My private collection of links.
 ## Writing
 
 * RFC Style Guide: https://tools.ietf.org/html/rfc7322
+* http://www.tablesgenerator.com/markdown_tables
 
 ## Misc
 
