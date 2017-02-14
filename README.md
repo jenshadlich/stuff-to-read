@@ -17,6 +17,7 @@ My private collection of links.
 * https://dzone.com/articles/scalable-cloud-computing-with-microservices
 * https://www.infoq.com/presentations/ddd-microservices-2016
 * http://www.grahamlea.com/2015/07/microservices-security-questions/
+* 
 
 ## Java, Spring
 
@@ -33,13 +34,27 @@ My private collection of links.
 * https://spring.io/blog/2015/12/10/spring-boot-memory-performance
 * http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html
 * http://matthewkwilliams.com/index.php/2016/03/17/docker-cgroups-memory-constraints-and-java-cautionary-tale/
+* https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do
+* https://dzone.com/articles/deploying-microservices-spring-cloud-vs-kubernetes
+* http://techblog.netflix.com/2016/09/zuul-2-netflix-journey-to-asynchronous.html
 
-## Containers
+## Go
+
+* https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/
+
+## Containers, Docker
 
 * https://github.com/anapsix/docker-alpine-java
 * http://www.boycottdocker.org/
 * http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/
 * http://gianarb.it/blog/Docker-Security-Benchmark
+
+## k8s
+
+* https://kubernetes.io/docs/user-guide/services/#the-gory-details-of-virtual-ips
+* https://sysdig.com/blog/troubleshooting-docker-and-kubernetes/
+* https://sysdig.com/blog/digging-into-kubernetes-with-sysdig/
+* https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/
 
 ### Cloud Foundry
 
@@ -68,6 +83,9 @@ My private collection of links.
 * https://www.fastly.com/blog/using-esi-part-1-simple-edge-side-include
 * https://developer.akamai.com/api/purge/ccu/overview.html
 * http://book.varnish-software.com/4.0/chapters/Cache_Invalidation.html
+* https://github.com/typekit/webfontloader
+* http://fontawesome.io/icons/
+* https://demo.vaadin.com/valo-theme/
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
@@ -81,6 +99,7 @@ My private collection of links.
 
 * RFC Style Guide: https://tools.ietf.org/html/rfc7322
 * http://www.tablesgenerator.com/markdown_tables
+* https://yhatt.github.io/marp/
 
 ## Misc
 
@@ -88,3 +107,4 @@ My private collection of links.
 * http://sqlmap.org/
 * http://datanet.co/
 * https://moz.com/blog/the-technical-seo-renaissance
+* https://docs.gitlab.com/ee/workflow/gitlab_flow.html
