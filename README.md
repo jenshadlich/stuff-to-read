@@ -48,6 +48,7 @@ My private collection of links.
 * http://www.boycottdocker.org/
 * http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/
 * http://gianarb.it/blog/Docker-Security-Benchmark
+* https://ericchiang.github.io/post/containers-from-scratch/
 
 ## k8s
 
