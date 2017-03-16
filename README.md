@@ -94,7 +94,8 @@ My private collection of links.
 * https://tools.ietf.org/html/rfc7748
 * https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid
 * http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
-* http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
+* http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/1
+* https://download.libsodium.org/doc/
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
