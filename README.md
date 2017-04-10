@@ -75,6 +75,7 @@ My private collection of links.
 
 * https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
 * http://highscalability.com/blog/2012/6/18/google-on-latency-tolerant-systems-making-a-predictable-whol.html
+* https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 
 ## DevOps
 
