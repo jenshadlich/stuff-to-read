@@ -77,6 +77,7 @@ My private collection of links.
 * http://highscalability.com/blog/2012/6/18/google-on-latency-tolerant-systems-making-a-predictable-whol.html
 * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 * https://jepsen.io/
+* https://aphyr.com/posts/288-the-network-is-reliable
 
 ## DevOps
 
