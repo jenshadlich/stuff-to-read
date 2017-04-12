@@ -58,6 +58,7 @@ My private collection of links.
 * https://sysdig.com/blog/digging-into-kubernetes-with-sysdig/
 * https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/
 * https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
+* https://speakerdeck.com/thockin
 
 ### Cloud Foundry
 
