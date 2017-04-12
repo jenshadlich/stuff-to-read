@@ -79,6 +79,7 @@ My private collection of links.
 * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 * https://jepsen.io/
 * https://aphyr.com/posts/288-the-network-is-reliable
+* http://highscalability.com/blog/2016/8/23/the-always-on-architecture-moving-beyond-legacy-disaster-rec.html
 
 ## DevOps
 
