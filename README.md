@@ -103,6 +103,7 @@ My private collection of links.
 * http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/1
 * https://download.libsodium.org/doc/
 * https://github.com/dxa4481/truffleHog
+* https://www.crypto101.io/Crypto101.pdf
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
