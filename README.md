@@ -37,6 +37,7 @@ My private collection of links.
 * https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do
 * https://dzone.com/articles/deploying-microservices-spring-cloud-vs-kubernetes
 * http://techblog.netflix.com/2016/09/zuul-2-netflix-journey-to-asynchronous.html
+* http://www.nurkiewicz.com/2014/08/url-shortener-service-in-42-lines-of.html
 
 ## Go
 
