@@ -44,6 +44,7 @@ My private collection of links.
 * https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/
 * https://www.gitbook.com/book/checkmarx/go-scp/details
 * https://peter.bourgon.org/go-best-practices-2016/
+* https://vincent.bernat.im/en/blog/2017-systemd-golang
 
 ## Containers, Docker
 
