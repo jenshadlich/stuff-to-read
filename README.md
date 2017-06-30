@@ -109,6 +109,7 @@ My private collection of links.
 * https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/
 * https://www.crypto101.io/Crypto101.pdf
 * https://bitsonblocks.net/2016/02/29/a-gentle-introduction-to-immutability-of-blockchains/
+* https://www.w3.org/TR/credential-management-1/
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
