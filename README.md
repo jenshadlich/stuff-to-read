@@ -116,6 +116,7 @@ My private collection of links.
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
 * https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8
+* https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that
 
 ## Networking
 * http://bird.network.cz/
