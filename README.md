@@ -112,6 +112,7 @@ My private collection of links.
 * https://bitsonblocks.net/2016/02/29/a-gentle-introduction-to-immutability-of-blockchains/
 * https://www.w3.org/TR/credential-management-1/
 * https://github.com/FallibleInc/security-guide-for-developers/blob/master/vulnerabilities-stats.md
+* https://github.com/shieldfy/API-Security-Checklist
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
