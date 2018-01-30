@@ -86,6 +86,9 @@ My private collection of links.
 * https://aphyr.com/posts/288-the-network-is-reliable
 * http://highscalability.com/blog/2016/8/23/the-always-on-architecture-moving-beyond-legacy-disaster-rec.html
 
+## Monitoring
+* https://prometheus.io/docs/instrumenting/exposition_formats/
+
 ## DevOps
 
 * https://bosh.io/
