@@ -96,6 +96,7 @@ My private collection of links.
 
 ## Web Developoment
 
+* http://httpbin.org/
 * https://www.fastly.com/blog/using-esi-part-1-simple-edge-side-include
 * https://developer.akamai.com/api/purge/ccu/overview.html
 * http://book.varnish-software.com/4.0/chapters/Cache_Invalidation.html
