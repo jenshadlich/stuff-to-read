@@ -46,6 +46,10 @@ My private collection of links.
 * https://peter.bourgon.org/go-best-practices-2016/
 * https://vincent.bernat.im/en/blog/2017-systemd-golang
 
+## Python
+
+* https://jacobian.org/writing/python-environment-2018/
+
 ## Containers, Docker
 
 * https://github.com/anapsix/docker-alpine-java
