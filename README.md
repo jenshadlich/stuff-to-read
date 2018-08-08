@@ -107,6 +107,7 @@ My private collection of links.
 * https://github.com/typekit/webfontloader
 * http://fontawesome.io/icons/
 * https://demo.vaadin.com/valo-theme/
+* https://www.fastly.com/blog/headers-we-want
 
 ## Security
 
