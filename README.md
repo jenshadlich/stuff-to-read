@@ -123,6 +123,8 @@ My private collection of links.
 * https://www.w3.org/TR/credential-management-1/
 * https://github.com/FallibleInc/security-guide-for-developers/blob/master/vulnerabilities-stats.md
 * https://github.com/shieldfy/API-Security-Checklist
+* https://github.com/vitalysim/Awesome-Hacking-Resources
+* https://github.com/hslatman/awesome-threat-intelligence
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
