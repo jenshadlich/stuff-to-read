@@ -108,6 +108,7 @@ My private collection of links.
 * http://fontawesome.io/icons/
 * https://demo.vaadin.com/valo-theme/
 * https://www.fastly.com/blog/headers-we-want
+* http://visjs.org/
 
 ## Security
 
