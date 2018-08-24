@@ -8,7 +8,7 @@ My private collection of links.
 * http://www.evanjones.ca/java-native-leak-bug.html
 * https://gdstechnology.blog.gov.uk/2015/12/11/using-jemalloc-to-get-to-the-bottom-of-a-memory-leak/
 
-## Microservices, DDD
+## Microservices, DDD, APIs
 
 * http://12factor.net/
 * http://martinfowler.com/articles/microservices.html
@@ -17,7 +17,8 @@ My private collection of links.
 * https://dzone.com/articles/scalable-cloud-computing-with-microservices
 * https://www.infoq.com/presentations/ddd-microservices-2016
 * http://www.grahamlea.com/2015/07/microservices-security-questions/
-* 
+* https://developers.google.com/identity/protocols/googlescopes
+* https://github.com/yosriady/api-development-tools
 
 ## Java, Spring
 
@@ -67,6 +68,8 @@ My private collection of links.
 * https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/
 * https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 * https://speakerdeck.com/thockin
+* https://kubernetespodcast.com/
+* https://stripe.com/blog/operating-kubernetes
 
 ### Cloud Foundry
 
@@ -89,6 +92,7 @@ My private collection of links.
 * https://jepsen.io/
 * https://aphyr.com/posts/288-the-network-is-reliable
 * http://highscalability.com/blog/2016/8/23/the-always-on-architecture-moving-beyond-legacy-disaster-rec.html
+* https://cloud.google.com/spanner/docs/true-time-external-consistency
 
 ## Monitoring
 * https://prometheus.io/docs/instrumenting/exposition_formats/
@@ -109,6 +113,7 @@ My private collection of links.
 * https://demo.vaadin.com/valo-theme/
 * https://www.fastly.com/blog/headers-we-want
 * http://visjs.org/
+* https://graphql.org/learn/
 
 ## Security
 
@@ -128,6 +133,9 @@ My private collection of links.
 * https://github.com/hslatman/awesome-threat-intelligence
 * Ask HN: What's the recommended method of adding authentication to a REST API? https://news.ycombinator.com/item?id=16157002
 * Critique My Plan: API Key for Authentication https://news.ycombinator.com/item?id=16006394
+* https://github.com/austin-taylor/VulnWhisperer
+* https://developers.shutterstock.com/oauth-20
+* http://sqlmap.org/
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
@@ -147,8 +155,8 @@ My private collection of links.
 ## Misc
 
 * Adyen Test Card Numbers: https://gist.github.com/j3j5/8b3e48ccad746b90a54a
-* http://sqlmap.org/
 * http://datanet.co/
 * https://moz.com/blog/the-technical-seo-renaissance
 * https://docs.gitlab.com/ee/workflow/gitlab_flow.html
 * http://pages.cs.wisc.edu/~remzi/OSTEP/
+* https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/
