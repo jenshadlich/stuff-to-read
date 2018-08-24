@@ -160,3 +160,4 @@ My private collection of links.
 * https://docs.gitlab.com/ee/workflow/gitlab_flow.html
 * http://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/
+* https://gist.github.com/nicolewhite/2e77c22ce9e709e684d2
