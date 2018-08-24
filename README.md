@@ -126,6 +126,8 @@ My private collection of links.
 * https://github.com/shieldfy/API-Security-Checklist
 * https://github.com/vitalysim/Awesome-Hacking-Resources
 * https://github.com/hslatman/awesome-threat-intelligence
+* Ask HN: What's the recommended method of adding authentication to a REST API? https://news.ycombinator.com/item?id=16157002
+* Critique My Plan: API Key for Authentication https://news.ycombinator.com/item?id=16006394
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
