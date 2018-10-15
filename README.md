@@ -19,6 +19,8 @@ My private collection of links.
 * http://www.grahamlea.com/2015/07/microservices-security-questions/
 * https://developers.google.com/identity/protocols/googlescopes
 * https://github.com/yosriady/api-development-tools
+* https://martinfowler.com/articles/microservice-trade-offs.html
+* https://martinfowler.com/articles/break-monolith-into-microservices.html
 
 ## Java, Spring
 
@@ -39,6 +41,8 @@ My private collection of links.
 * https://dzone.com/articles/deploying-microservices-spring-cloud-vs-kubernetes
 * http://techblog.netflix.com/2016/09/zuul-2-netflix-journey-to-asynchronous.html
 * http://www.nurkiewicz.com/2014/08/url-shortener-service-in-42-lines-of.html
+* https://blog.codefx.org/java/java-11-migration-guide/
+* https://github.com/cxxr/better-java
 
 ## Go
 
@@ -114,7 +118,8 @@ My private collection of links.
 * https://www.fastly.com/blog/headers-we-want
 * http://visjs.org/
 * https://graphql.org/learn/
-* https://neo4j.com/docs/cypher-refcard/current/
+* https://talks.philsturgeon.uk/instances/rubyconfco-17/a-no-nonsense-graphql-rest-comparison/html/#/
+
 
 ## Security
 
@@ -162,3 +167,4 @@ My private collection of links.
 * http://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/
 * https://gist.github.com/nicolewhite/2e77c22ce9e709e684d2
+* https://neo4j.com/docs/cypher-refcard/current/
