@@ -170,3 +170,4 @@ My private collection of links.
 * https://gist.github.com/nicolewhite/2e77c22ce9e709e684d2
 * https://neo4j.com/docs/cypher-refcard/current/
 * https://crontab.guru/
+* Google crawlers (user agents): https://support.google.com/webmasters/answer/1061943?hl=en
