@@ -54,6 +54,7 @@ My private collection of links.
 ## Python
 
 * https://jacobian.org/writing/python-environment-2018/
+* https://write.as/chobeat/python-project-tooling-explained
 
 ## Containers, Docker
 
