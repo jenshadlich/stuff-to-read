@@ -43,6 +43,7 @@ My private collection of links.
 * http://www.nurkiewicz.com/2014/08/url-shortener-service-in-42-lines-of.html
 * https://blog.codefx.org/java/java-11-migration-guide/
 * https://github.com/cxxr/better-java
+* https://darakian.github.io/2019/02/17/on-java-securerandom.html
 
 ## Go
 
