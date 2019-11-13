@@ -145,6 +145,7 @@ My private collection of links.
 * https://developers.shutterstock.com/oauth-20
 * http://sqlmap.org/
 * https://www.omerlh.info/2018/10/04/write-good-code-with-security-tests/
+* https://github.com/thomasdarimont/awesome-keycloak
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
