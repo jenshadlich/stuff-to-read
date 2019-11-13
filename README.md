@@ -146,6 +146,7 @@ My private collection of links.
 * http://sqlmap.org/
 * https://www.omerlh.info/2018/10/04/write-good-code-with-security-tests/
 * https://github.com/thomasdarimont/awesome-keycloak
+* https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
