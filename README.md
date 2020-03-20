@@ -66,7 +66,7 @@ My private collection of links.
 * https://ericchiang.github.io/post/containers-from-scratch/
 * https://developers.redhat.com/blog/2017/03/14/java-inside-docker/
 
-## k8s
+### k8s
 
 * https://kubernetes.io/docs/user-guide/services/#the-gory-details-of-virtual-ips
 * https://sysdig.com/blog/troubleshooting-docker-and-kubernetes/
@@ -122,6 +122,9 @@ My private collection of links.
 * https://graphql.org/learn/
 * https://talks.philsturgeon.uk/instances/rubyconfco-17/a-no-nonsense-graphql-rest-comparison/html/#/
 
+## Kafka
+
+* https://riccomini.name/how-paint-bike-shed-kafka-topic-naming-conventions
 
 ## Security
 
