@@ -121,6 +121,7 @@ My private collection of links.
 * http://visjs.org/
 * https://graphql.org/learn/
 * https://talks.philsturgeon.uk/instances/rubyconfco-17/a-no-nonsense-graphql-rest-comparison/html/#/
+* https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
 ## Kafka
 
