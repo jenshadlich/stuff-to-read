@@ -21,6 +21,7 @@ My private collection of links.
 * https://github.com/yosriady/api-development-tools
 * https://martinfowler.com/articles/microservice-trade-offs.html
 * https://martinfowler.com/articles/break-monolith-into-microservices.html
+* 
 
 ## Java, Spring
 
@@ -56,6 +57,7 @@ My private collection of links.
 
 * https://jacobian.org/writing/python-environment-2018/
 * https://write.as/chobeat/python-project-tooling-explained
+* https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/
 
 ## Containers, Docker
 
