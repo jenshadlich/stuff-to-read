@@ -154,6 +154,7 @@ My private collection of links.
 * https://github.com/thomasdarimont/awesome-keycloak
 * https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/
 * https://attack.mitre.org/
+* https://www.netmeister.org/blog/infosec-competencies.html
 
 ## Linux
 * https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux.html
